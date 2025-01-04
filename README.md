@@ -8,7 +8,7 @@ Whether you're a beginner or refreshing your Java and database skills, this repo
 
 ## Table of Contents  
 
-1. [Course Overview](#course-overview)  
+1. [Code Overview](#code-overview)  
 2. [Directory Structure](#directory-structure)
 3. [Tools and Technologies](#Tools-and-Technologies)
 4. [Breakdown](#breakdown)  
@@ -17,7 +17,7 @@ Whether you're a beginner or refreshing your Java and database skills, this repo
 
 ---
 
-## Course Overview  
+## Code Overview  
 
 This project covers the implementation of CRUD operations using **JDBC (Java Database Connectivity)**. It provides examples and templates to help you:  
 
@@ -30,25 +30,24 @@ This project covers the implementation of CRUD operations using **JDBC (Java Dat
 ### Multimedia Overview  
 
 #### Video Overview  
-[![Watch the Video](https://github.com/user-attachments/assets/e9acc381-6927-40bc-83bd-6667e26cafbc)  
+[![Watch the Video]([assets/CRUD_Java.mp4](https://github.com/user-attachments/assets/346b61b9-3935-4786-9132-8b210f6978ed))
 *Click the image above to watch the video on YouTube.*
 
-> **Note**: Replace `VIDEO_ID` with the ID of your YouTube video.
 
-#### Images from the Course  
-Here are some screenshots from the course:
+#### Images from the CRUD  
+Here are some screenshots from the App:
 
 **1. Screenshot 1**  
-![Screenshot 1](![1](https://github.com/user-attachments/assets/ad1f45b4-e645-4a15-9c1c-7108936141ab))
+![Screenshot 1](assets/1.png)
 
 **2. Screenshot 2**  
-![Screenshot 2](path-to-your-image-2.png)
+![Screenshot 2](assets/2.png)
 
 **3. Screenshot 3**  
-![Screenshot 3](path-to-your-image-3.png)
+![Screenshot 3](assets/3.png)
 
 **4. Screenshot 4**  
-![Screenshot 4](path-to-your-image-4.png)
+![Screenshot 4](assets/4.png)
 
 ---
 
