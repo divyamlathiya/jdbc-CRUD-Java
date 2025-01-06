@@ -30,7 +30,8 @@ This project covers the implementation of CRUD operations using **JDBC (Java Dat
 ### Multimedia Overview  
 
 #### Video Overview  
-[![Watch the Video](assets/CRUD_Java.mp4)
+https://github.com/user-attachments/assets/17bacf8e-5f5f-476e-9685-d66c416fffa4
+
 *Click the image above to watch the video on YouTube.*
 
 
