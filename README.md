@@ -118,4 +118,4 @@ Thank you for exploring the **JDBC CRUD Java** repository! Whether you're new to
 
 Happy coding! 👨‍💻👩‍💻  
 
-**Author**: Divyam Lathiya  
+Author: **Divyam Lathiya**  
