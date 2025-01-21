@@ -6,7 +6,7 @@ package crudapp.java;
 
 /**
  *
- * @author Divyam
+ * @author Technoapp_15
  */
 public class CRUDAppJava {
 
