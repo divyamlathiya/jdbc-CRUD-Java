@@ -20,6 +20,7 @@ import javax.swing.table.DefaultTableModel;
 /**
  *
  * @author Technoapp_15
+ * @author Divyam
  */
 public class CRUD extends javax.swing.JFrame {
 
