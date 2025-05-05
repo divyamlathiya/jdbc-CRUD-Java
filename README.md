@@ -120,4 +120,4 @@ Happy coding! 👨‍💻👩‍💻
 
 ---
 
-Author: **Divyam Lathiya**  
+**Divyam Lathiya**  
